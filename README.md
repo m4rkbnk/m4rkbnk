@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mark Babenko
+- 👀 I’m interested in learning the art of coding!
+- 🌱 I’m currently learning HTML, CSS, and JS!
